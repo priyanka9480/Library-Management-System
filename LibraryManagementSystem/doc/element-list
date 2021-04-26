@@ -1,0 +1,7 @@
+com.capgemini
+com.capgemini.config
+com.capgemini.lms.controller
+com.capgemini.lms.dao
+com.capgemini.lms.entities
+com.capgemini.lms.exception
+com.capgemini.lms.service
